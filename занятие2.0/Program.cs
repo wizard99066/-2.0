@@ -33,5 +33,9 @@ for (int i = 0; i < r; i++)
 
     Console.Write(mas[i] + "\t");
 }
+Console.WriteLine();
+Console.WriteLine("для еще одной ветки");
 Console.ReadKey();
+
+
 
