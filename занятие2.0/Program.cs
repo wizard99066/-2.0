@@ -35,6 +35,9 @@ for (int i = 0; i < r; i++)
 }
 Console.WriteLine();
 Console.WriteLine("для еще одной ветки");
+Console.WriteLine();
+Console.WriteLine("и последний раз для новой ветки");
+
 Console.ReadKey();
 
 
